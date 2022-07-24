@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 45px;
+}
+
+h1 span {
+    color: orange;
+}
+
+.link-button {
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 46px;
+    color: white;
+    padding: 15px 35px;
+    text-decoration: none;
+}
+
+.half-width {
+    width: 45%;
+    float: left;
+    margin-left: 5%;
+}
+
+.half-width img {
+    width: 60%;
+}
+
+section {
+    height: 400px;
+}
+
+.about-bg {
+    background-color: #FFF4ee;
+}
+
+.about-bg img {
+    margin-top: 50px;
+}
+
+.half-width h2 {
+    font-size: 40px;
+    color: dimgrey;
+}
+
+.half-width p {
+    color: dimgrey;
+}
+
+.Other {
+    text-align: center;
+}
+
+.Other h2 {
+    font-size: 50px;
+    color: dimgrey;
+}
+
+.footer h1 {
+    color: dimgrey;
+    text-align: center;
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+}
+
+.footer-wrapper {
+    background-color: black;
+}
